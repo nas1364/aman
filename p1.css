@@ -1,0 +1,15 @@
+#h{
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+}
+#footer{
+  position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(71, 71, 180);
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+}
